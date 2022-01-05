@@ -10,6 +10,7 @@ h2{
 }
 section{
     display: flex;
+    
 }
 .ronaldo{
     width: 50%;
@@ -55,10 +56,37 @@ section{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     margin-left: -10px;
+    margin-bottom: 50px;
 }
-.ruller{
+#ruller{
     text-align: center;
-}
-
-
+    font-weight: 800;
     
+
+}
+.sctions{
+    display: flex;
+    
+    margin-top: 500px;
+    
+}
+.goal{
+    width: 80%;
+    
+  
+   
+}
+.goal img{
+    width: 60%;
+    margin-top: -700px;
+    margin-left: 100px;
+}
+.one{
+    box-shadow: 10px 10px 40px grey;
+    width: 90%;
+    border-left: 5px solid;
+    border-image: linear-greadient(green, red);
+    border-image-slice: 1;
+    padding-left: 5%;
+    margin-left: 5%;
+}
