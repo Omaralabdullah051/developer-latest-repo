@@ -1,0 +1,64 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    text-align: center;
+    margin-top: -480px;
+}
+h2{
+    text-align: center;
+}
+section{
+    display: flex;
+}
+.ronaldo{
+    width: 50%;
+    margin-left: 120px;
+}
+.ron{
+    margin-left: -10px;
+    margin-top: -10px;
+}
+#cr{
+    text-align: left;
+    margin-left: 200px;
+}
+    span{
+        color: orange;
+        font-weight: 800;
+        font-size: 30px;
+    }
+#crs{
+    text-align: right;
+    margin-right: 200px;
+    margin-top: -70px;
+}
+.cristi{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+  
+ 
+}
+.web{
+    border-left: 6px solid;
+    border-image: linear-gradient(blue, red);
+    border-image-slice: 1;
+}
+.webs{
+    border-left: 6px solid;  
+    border-image: linear-gradient(orange, red);
+    border-image-slice: 1;
+}
+.hello{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    margin-left: -10px;
+}
+.ruller{
+    text-align: center;
+}
+
+
+    
